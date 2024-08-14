@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Toby Brunet - Construction Management Professional</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Toby Brunet</h1>
+        <nav>
+            <ul>
+                <li><a href="#about">About Me</a></li>
+                <li><a href="#experience">Experience</a></li>
+                <li><a href="#skills">Skills</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="home">
+        <div class="intro">
+            <h2>Welcome to My Professional Portfolio</h2>
+            <p>I am Toby Brunet, a seasoned Construction Management Professional with over 15 years of experience in civil construction, oil and gas projects, and project management.</p>
+            <a href="#projects" class="button">Explore My Work</a>
+        </div>
+    </section>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <p>With a robust background in managing complex construction projects across various sectors, I have honed my skills in project planning, team leadership, and regulatory compliance.</p>
+    </section>
+
+    <section id="experience">
+        <h2>Experience</h2>
+        <div class="job">
+            <h3>Superintendent/General Superintendent - Michels Canada (2020 - 2024)</h3>
+            <p>Led the Coquitlam Main #4 South Section and Newton Reservoir Upgrade projects, overseeing subcontractor management, project scheduling, and QC management.</p>
+        </div>
+        <div class="job">
+            <h3>Civil Superintendent - Northshore Conveyance Project (2019 - 2020)</h3>
+            <p>Managed all subcontractors, ensuring project deliverables were met with the highest standards.</p>
+        </div>
+        <!-- Add more jobs as needed -->
+    </section>
+
+    <section id="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>Project Management & Planning</li>
+            <li>Team Leadership & Coordination</li>
+            <li>Safety & Regulatory Compliance</li>
+            <!-- Add more skills as needed -->
+        </ul>
+    </section>
+
+    <section id="projects">
+        <h2>Projects</h2>
+        <div class="project">
+            <h3>Coquitlam Main #4 South Section</h3>
+            <p>Led the project from bid submission through to completion, managing all aspects of subcontractor scheduling and workface planning.</p>
+        </div>
+        <div class="project">
+            <h3>Newton Reservoir Upgrade</h3>
+            <p>Managed the civil aspects of the upgrade, coordinating teams and ensuring compliance with all safety and regulatory requirements.</p>
+        </div>
+        <!-- Add more projects as needed -->
+    </section>
+
+    <footer id="contact">
+        <h2>Contact</h2>
+        <p>Email: <a href="mailto:toby.brunet@gmail.com">toby.brunet@gmail.com</a></p>
+        <p>Phone: (780) 603-0762</p>
+        <p>LinkedIn: <a href="#">LinkedIn Profile</a></p>
+    </footer>
+</body>
+</html>
